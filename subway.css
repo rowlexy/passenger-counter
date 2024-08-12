@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://st4.depositphotos.com/8076764/23428/i/1600/depositphotos_234289226-stock-photo-deserted-platform-light-rail-station.jpg);
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.container {
+    background: white;
+    margin: auto;
+    max-width: 80%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+#increment-btn {
+    background: darkred;
+}
+#save-btn {
+    background: green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
